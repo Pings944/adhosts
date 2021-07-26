@@ -2,6 +2,51 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+c.njcengpianwang.cn
+v.njcengpianwang.cn
+vip.infobbs.xyz
+qtin.biquter.xyz
+lutjlsdkfjkkbl.yigouxiangcun.com
+a7309sk7ums2sle.anda1516.com
+otjkekgjk5i96998.guoshihuaiyao.com
+awsfjlalsf.huiyigou111.com
+o12kmfutkkdhaw.bolijiupingchang.com
+lasflajfadsuio.stater-tc.com
+a7sereugldjad.lingpaocar.com
+okojfkeykkerj.diandongchetoukui.com
+l8jseutjdofsd.carpediemcn.com
+auwkd7fdk23x.zhengshaoze.com
+o7sjfkeuio3ddfsjg.importcat.com
+l23kdkghsldrj.tj-cyhg.com
+asu3234sfrxfg56i.zhipufs.com
+opkkekk893097.xinghualinghang.com
+m.haoweb.top
+asdkfyt123hvb.hi-bon.com
+o77d234kdkfhh.sparkyinchun.com
+l74djwlrje2f0ra292.fublue.coalsksldfkj.tla-cn.com
+ofhg8872j384jdjf.th-make.com
+oby6i8766jf1.bujiangjiu123.com
+o39fj23jjd238e.xiji-express.com
+v.qufengo.com
+huojukk.com
+xcdn.pgcm58.com
+lnk9c.amvecurt.cn
+lnk9v.amvecurt.cn
+sv.jxbear.xyz
+star.fnggukz.cn
+j.uu-xs.net
+:o7sjfkeuio3ddfsjg.importcat.com
+jsm.godloveme.cn
+doiney.pandasone.com
+www.lm661.com
+xg.hbzhenquan.cn
+z.shenlinlive.cn
+h5.miyushu.com
+fo.tiqu.io
+tect.bdcode01.cn
+tech.bdcode01.cn
+:www.kowqd1.top
+pc.weizhenwx.com
 alm.haoyundm.com
 www.uerlqe.com
 m.tg.meihaoxiangwang.com
@@ -964,8 +1009,16 @@ baidu.com##.ec-ad
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
 ##DIV.addg->m:0
 ##DIV.addg
+##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']->m:0
+##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
+##[src^='https://p.jngdg.top/'][alt]->m:0
+##[src^='https://p.jngdg.top/'][alt]
 ##.dise_gd,.dise_db->m:0
 ##.dise_gd,.dise_db
+##[href^='https://vip.infobbs.xyz/atl.php']->m:0
+##[href^='https://vip.infobbs.xyz/atl.php']
+##[style='height: auto;']->m:0
+##[style='height: auto;']
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']
 ##[onclick^="window.location.href = 'http://wd.haoyundm.com"]->m:0
@@ -980,6 +1033,7 @@ sogou.com##.ad_result
 baijiahao.baidu.com##SPAN[class='psDTG2YH-UVvL5hI8Ye4a']
 baijiahao.baidu.com##SPAN[class='_2v86xffLyWbTz5nRDFr_L_ _2xxXjJo3ZlFeRRLLUMtAr_']
 ifeng.com##div[class^="ad_"]
+xx7411.com##[width='1230px'][height='97px'],[width='728px'][height='90px'],#Preview_vedio_area,[width='1230px']
 zhidao.baidu.com##[id='knowledge-answer-list']
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
 www.onemanhua.com##A[href*='archerrche.com']
