@@ -2,6 +2,22 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+www.xxmh456.com
+yuehesh.com
+abc.kfyg.xyz
+xopf.lhy1.xyz
+hks.lhy1.xyz
+abc.zdfjas.top
+wof.arkn81.com
+gdsoq.com
+ror12.cc
+3q3l.cn
+8g0j.cn
+code1155
+y74s.xyz
+v6jt.cn
+7282818wednesday.1905715.com
+yoke.arkn81.com
 c.njcengpianwang.cn
 v.njcengpianwang.cn
 vip.infobbs.xyz
@@ -875,6 +891,8 @@ oneyearonechange.com
 www.aoyou4.top
 www.aoyou5.top
 !--链接--
+567*.xyz
+--567\w?\.xyz
 qchannel03.cn$third-party
 hm.baidu.com$third-party
 --templates_pc/default/scripts/chapter_bottom.js
@@ -997,24 +1015,14 @@ www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
 baidu.com##.ec-ad
-##DIV#g_ads.layui-card-body->m:0
-##DIV#g_ads.layui-card-body
-##DIV#mhadd.dtag->m:0
-##DIV#mhadd.dtag
 ##[href^='https://7segu.taobao.com/'],[href='http://m.shokuhou.com/download/']->m:0
 ##[href^='https://7segu.taobao.com/'],[href='http://m.shokuhou.com/download/']
 ##[href^='https://www.visvn.cn/c.php']->m:0
 ##[href^='https://www.visvn.cn/c.php']
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']->m:0
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
-##DIV.addg->m:0
-##DIV.addg
-##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']->m:0
-##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##[src^='https://p.jngdg.top/'][alt]->m:0
 ##[src^='https://p.jngdg.top/'][alt]
-##.dise_gd,.dise_db->m:0
-##.dise_gd,.dise_db
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
 ##[href^='https://vip.infobbs.xyz/atl.php']
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
@@ -1048,3 +1056,4 @@ onemanhua.com###rn_ad_native_2u1bh > div.mn-related-container
 52movieba.com,bimibimi.me,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jiecao123.com,jitapu.com,jiyingw.net,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
+11111
