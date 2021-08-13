@@ -2,6 +2,45 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+ios.xyadtlyy.com
+lt.goodgoodluck.cn
+mimg.meihu56.cn
+mc.mmkkhhnn.cn
+mc.mssdhde.cn
+js.brstke.top
+mg.lingqinga.cn
+j.wesat.cn
+www.kowqd7.top
+et.dexuanyu.top
+local.adguard.org
+eo.tchkcc.cn
+data.zhongquanjy.com
+r.qq-hls.xyz
+securepubads.g.doubleclick.net
+2785.chushoushijian.cn
+fg.daochengwowo.top
+dat2.qhdymdc.com
+m.xmds029.com
+ed.gumoda.top
+mz.xwintop.top
+ert.pengwenli.top
+lsuy579ribd29j.lekhumayou.com
+awekdhfjsl.wsyyt123456.com
+oywhyeehgha.guirui-clothes.com
+ywhyeehgha.guirui-clothes.com
+www.369burn.com
+gb.nbgoodever.cn
+yd.gxdianhua.com
+kh.whyfate.cn
+www.govyunfu.cn
+yd.yuanqitu.com
+bcbo.cc
+cfepws.com
+pc.jinrongwang.net
+mg.njzyjy.cn
+log.lon22.com
+ad.kshuiz.top
+enl2.96845.com
 tg.loclog.cn
 www.lm661.com
 km.senxiaopang.top
@@ -122,7 +161,6 @@ u.txuesoft.cn
 www.diyuxa.com
 s.ssl.qhres2.com
 one.gongshu168.cn
-sf1-scmcdn-tos.pstatp.com
 qc.szsdjscl.cn
 www.werwzd1.com
 v.yanomami.cn
@@ -265,7 +303,6 @@ bi.ui.doulaihai.top
 ppl.xunzhuo123.com
 puqer.cn
 m.abc88866.com
-s3.amazonaws.com
 g47iq.bolimen.top
 www.ilaohuyou.xyz
 parse.fzcjjx.com
@@ -940,6 +977,7 @@ http://www.5nj.com/js/cnzz33.js
 http://www.5nj.com/js/cnzz22.js
 https://www.wandouys.com/slade.js
 https://m.kukudm.com/mg/show2.js
+https://www.daishudy.com/js/g/b_1.js
 https://m.zwdu.com/getuserinfo.php
 pstatp.com/growth/fe_sdk/bannersdk
 http://s2.m.ikkdm.com/mg/show2.js
@@ -1031,7 +1069,7 @@ www.nangua5.com##[id*="_"][class*="_"],[id^="k"],[style*='height: 130px;'],[styl
 mengmiandaxia.com,mengmiandaxia.cn##[id="mmdx-bottom-ad"]
 88btbtt.com,51btbtt.com,52btbtt.com,91btbtt.com,mebtbtt.com,btbtt.life,btbtt.live,btbtt.xyz##[id="wrapper_left_bg"],[id="wrapper_right_bg"],[class="width imgs_1"],[class="wrapper_bg_c hidden-xs"]
 m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
-www.nicotv.work,nicotv.vip,www.nicotv.biz,www.nicotv.club,www.nicotv.me###MyDiv1,#MyDiv2,[src='https://img.qrgjwz.cn/all/mh05_640200.gif'],[onclick],[class^="jSVPH"],[src^='http://img.bzzyx.cn/Uploads/'],[title="gg"]
+www.nicotv.work,nicotv.vip,www.nicotv.biz,www.nicotv.club,www.nicotv.me###MyDiv1,#MyDiv2,[src='https://img.qrgjwz.cn/all/mh05_640200.gif'],[onclick],[class^="jSVPH"],[src^='http://img.bzzyx.cn/Uploads/'],[title="gg"],IMG[src*='.gif'][style='width:100%']
 www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
@@ -1040,12 +1078,31 @@ baidu.com##.ec-ad
 ##[href^='https://7segu.taobao.com/'],[href='http://m.shokuhou.com/download/']
 ##[href^='https://www.visvn.cn/c.php']->m:0
 ##[href^='https://www.visvn.cn/c.php']
+##IMG#wz_dp_img[width='100%'][height='98px'][src*='.gif']->m:0
+##IMG#wz_dp_img[width='100%'][height='98px'][src*='.gif']
+##[href^='https://www.xdh0808.com/']->m:0
+##[href^='https://www.xdh0808.com/']
 ##[href^='https://www.exing118.com'][rel='nofollow'][target='_new']->m:0
 ##[href^='https://www.exing118.com'][rel='nofollow'][target='_new']
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']->m:0
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
 ##[src^='https://p.jngdg.top/'][alt]->m:0
 ##[src^='https://p.jngdg.top/'][alt]
+##[src*='.wdach.com/']->m:0
+##[src*='.wdach.com/']
+##[src*='.gif'][width='99%'][height='118'][style='border:0;']->m:0
+##[src*='.gif'][width='99%'][height='118'][style='border:0;']
+##[href='http://www.fcf0020.xyz']->m:0
+##[href='http://www.fcf0020.xyz']
+##UL[style='margin:0px; padding:0px;overflow:hidden;width:100%;']->m:0
+##UL[style='margin:0px; padding:0px;overflow:hidden;width:100%;']
+##[href="/js/c-7-16.html"][title="2021"]->m:0
+##[href="/js/c-7-16.html"][title="2021"]
+##[alt='腐乐漫'],[alt='西瓜社']->m:0
+##[alt='腐乐漫'],[alt='西瓜社']
+yimmh.com##[class^="x2021"]
+##[href^='https://www.xxmh608.com/u.htm']->m:0
+##[href^='https://www.xxmh608.com/u.htm']
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
 ##[href^='https://vip.infobbs.xyz/atl.php']
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
@@ -1072,13 +1129,11 @@ baidu.com###qtqy_container
 javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3)
 baidu.com###relative_shop_flow
 cpu.baidu.com##A[href*='cpro.baidu.com']
-baidu.com###page-pre
 baidu.com##.ec_wise_ad
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 www.onemanhua.com##IMG[src*='pic66557.oss-cn-beijing.aliyuncs.com']
 onemanhua.com###rn_ad_native_2u1bh > div.mn-related-container
 52movieba.com,bimibimi.me,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jiecao123.com,jitapu.com,jiyingw.net,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
-!---解除X浏览器投屏扩展被AdGuard屏蔽---
+!---解除X浏览器投屏扩展被AdGuard屏蔽(需在AdGuard导入本规则)---
 @@$app=com.x.addon.cast
-11111
